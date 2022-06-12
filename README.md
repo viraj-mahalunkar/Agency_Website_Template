@@ -1,6 +1,25 @@
-# Agency_Website
+# Agency_Website_Template
 
-The Agency Website is a HTML & CSS Practice project created originally on replit, an online IDE. The Website is responsive across various screen sizes
-and the UIUX component has been done by me as well.
+The Agency Website Template is a HTML & CSS template which is responsive across all screen sizes. The project was created to practice HTML & CSS concepts. The UIUX has been designed by me as well.
 
-You are free to use the code. Have fun! :D
+The agency website template can be used for various frontend client projects where a minimal, illsutration based website is required by the agency. The different agencies / clients, the template can be used for is web development agencies, digital marketing agencies, graphic designing agencies or social media agencies.
+
+# Instructions For Use
+
+1. Open the IDE the on your computer you are comfortable with - Atom / VScode / Sublime Text
+
+2. If Git in installed on your computer then simple open the terminal inside your IDE and type git clone https://github.com/viraj-mahalunkar/Agency_Website_Template.git
+
+3. The cloning will initialise and now you will have the local version on your IDE.
+
+If you want to instead get the repository on your github account then simply fork the repository by using the fork option on my repository.
+
+# Points of Consideration
+
+This is an HTML and CSS based website. For adding functionality and relationship to a database with respect to the contact form, additonal javascript script file will have to be added.
+
+# If you improve this code 
+
+If you improve this code and create anything cool using this as a base template don't forget to ping me at - mahalunkar.viraj@gmail.com I would love to see what this can grow into.
+
+# Live Version - https://Agency-Website-HTML-CSS.coding-art.repl.co
